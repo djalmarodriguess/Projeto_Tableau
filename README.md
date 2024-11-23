@@ -75,8 +75,11 @@ Acesse o dashboard e explore os dados:
 [🌐 **Painel de Métricas no Tableau Public**](https://public.tableau.com/views/Projeto_Final_Tableau/PaineldeMtricas?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
+## 📧 Contato
 
-
+- **Confira meu** [Portifólio](https://www.datascienceportfol.io/djalmarodrigues1206)  
+- **Veja meu** [LinkedIn](https://www.linkedin.com/in/djalma-rodrigues/)  
+- **Conheça meu** [GitHub](https://github.com/djalmarodriguess)
 
 
 
